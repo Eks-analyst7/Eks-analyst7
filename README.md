@@ -1,10 +1,4 @@
 ## Hi there 👋
-
-
-<!--
-**Eks-analyst7/Eks-analyst7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 # 💫 About Me:
 🔍 I enjoy finding patterns hidden inside data<br><br>📈 Currently building my skills in Data Analytics through academic projects and hands-on experience<br><br>🤝 Open to collaborating on analytics, visualization, and research-based projects<br><br>🌱 Learning something new every day in SQL, Python, Power BI, and data science<br><br>💬 Ask me about dashboards, data cleaning, reporting, and analytics workflows<br><br>⚡ Fun fact: My curiosity usually starts with a question and ends with a dataset
 
@@ -21,5 +15,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
